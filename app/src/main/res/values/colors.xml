@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primColor">#9C27B0</color>
+    <color name="primColorDark">#6A1B9A</color>
+    <color name="asscentColor">#FF4081</color>
+    <color name="primaryText">#212121</color>
+    <color name="secText">#727272</color>
+
+</resources>
