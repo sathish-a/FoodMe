@@ -22,7 +22,6 @@ public class Food {
         this.food_cost=food_cost;
         this.food_img=food_img;
         this.imgBit=imgBit;
-
     }
 
     void display(){
